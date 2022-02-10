@@ -1,0 +1,40 @@
+{
+    "success" : true,
+    "data": {
+        "topicList":[{
+            "id":1,
+            "title":"社会热点",
+            "imgUrl":"https://img2.baidu.com/it/u=1574330692,3936580487&fm=26&fmt=auto&gp=0.jpg"
+        },{
+            "id":2,
+            "title":"社会热点",
+            "imgUrl":"https://img2.baidu.com/it/u=1574330692,3936580487&fm=26&fmt=auto&gp=0.jpg"
+        }],
+        "articleList": [{
+            "id":1,
+            "title":"用自己喜欢的方式度过短暂的一生——《月亮与六便士》",
+            "desc":"这本书我曾在三年前看过，不觉有悟，只觉寡味。直到最近看了一部电影的解说，很有感触，接着又看了一位网友的评论——“这不就是现实版的《月亮与六便士》",
+            "imgUrl":"https://img2.baidu.com/it/u=1574330692,3936580487&fm=26&fmt=auto&gp=0.jpg"
+        },{
+            "id":2,
+            "title":"用自己喜欢的方式度过短暂的一生——《月亮与六便士》",
+            "desc":"这本书我曾在三年前看过，不觉有悟，只觉寡味。直到最近看了一部电影的解说，很有感触，接着又看了一位网友的评论——“这不就是现实版的《月亮与六便士》",
+            "imgUrl":"https://img2.baidu.com/it/u=1574330692,3936580487&fm=26&fmt=auto&gp=0.jpg"
+        },{
+            "id":3,
+            "title":"用自己喜欢的方式度过短暂的一生——《月亮与六便士》",
+            "desc":"这本书我曾在三年前看过，不觉有悟，只觉寡味。直到最近看了一部电影的解说，很有感触，接着又看了一位网友的评论——“这不就是现实版的《月亮与六便士》",
+            "imgUrl":"https://img2.baidu.com/it/u=1574330692,3936580487&fm=26&fmt=auto&gp=0.jpg"
+        }],
+        "recommendList":[{
+            "id":1,
+            "imgUrl":"https://mms0.baidu.com/it/u=650598925,111531536&fm=27&gp=0.jpg&fmt=auto"
+        },{
+            "id":2,
+            "imgUrl":"https://mms0.baidu.com/it/u=650598925,111531536&fm=27&gp=0.jpg&fmt=auto"
+        },{
+            "id":3,
+            "imgUrl":"https://mms0.baidu.com/it/u=650598925,111531536&fm=27&gp=0.jpg&fmt=auto"
+        }]
+    }
+}
